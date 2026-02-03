@@ -1051,7 +1051,7 @@ Team ownership of Control Points is randomized at the start of each round."
 
 "TF_ScoreBoard_UberchargesLabel"	"ÜberCharges:"
 "TF_ScoreBoard_TransportsLabel"		"Transports:"
-"TF_ScoreBoard_DestructionLabel"	"Destructions:"
+"TF_ScoreBoard_DestructionsLabel"	"Destructions:"
 "TF_ScoreBoard_HeadshotsLabel"		"Headshots:"
 "TF_ScoreBoard_BackstabsLabel"		"Backstabs:"
 
