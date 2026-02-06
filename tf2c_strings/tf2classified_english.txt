@@ -205,7 +205,7 @@
 // Soldier
 "Tip_3_Count"	"12"
 // Generic
-"Tip_3_1"		"Press %voicemenu 0 0% to call for a Medic if you get hurt. Nearby Medics will be notified of your need."
+"Tip_3_1"		"Press %helpme% to call for a Medic if you get hurt. Nearby Medics will be notified of your need."
 "Tip_3_2"		"As a Soldier, you can rocket jump to great heights by firing a rocket at your feet while jumping."
 "Tip_3_3"		"As a Soldier, crouch when preparing for a rocket jump in order to achieve maximum height."
 "Tip_3_4"		"As a Soldier, aim rockets at the feet of enemies to ensure they can't avoid the explosive damage."
