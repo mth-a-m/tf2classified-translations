@@ -57,6 +57,9 @@
 "TF_GreenTeam_Name"				"GRN"
 "TF_YellowTeam_Name"			"YLW"
 
+"TF_teamswitch_green"			"Você agora está na equipe GRN!"
+"TF_teamswitch_yellow"			"Você agora está na equipe YLW!"
+
 "TF_Other_Name"					"INIMIGOS"
 
 // Disguise Kit global disguise
@@ -113,8 +116,8 @@
 "TF_playerid_object_upgrading_level"	"( Nível %s1 ) Aprimorando..."
 "TF_playerid_object_building"			"Construindo..."
 "TF_playerid_object_building_level"		"( Nível %s1 ) Construindo..."
-"TF_playerid_teleporter_no_entrance"	"  -  Não há uma entrada correspondente"
-"TF_playerid_teleporter_no_exit"		"  -  Não há uma saída correspondente"
+"TF_playerid_teleporter_no_entrance"	"  -  Sem entrada"
+"TF_playerid_teleporter_no_exit"		"  -  Sem saída"
 "TF_playerid_object_recharging"			"  -  Recarregando: %s1%"
 "TF_playerid_object_flooded"			"Inundado"
 "TF_playerid_carrying"					"Carregando: %s1"
@@ -205,7 +208,7 @@
 // Soldier
 "Tip_3_Count"	"12"
 // Generic
-"Tip_3_1"		"Pressione %voicemenu 0 0% para chamar um médico caso se machuque. Os médicos próximos serão notificados da sua necessidade."
+"Tip_3_1"		"Pressione %helpme% para chamar um médico caso se machuque. Os médicos próximos serão notificados da sua necessidade."
 "Tip_3_2"		"Como um Soldier, você pode realizar um salto com foguete para alcançar grandes alturas disparando um foguete contra seus pés enquanto salta."
 "Tip_3_3"		"Como um Soldier, ao se preparar para um salto com foguete, agache-se para atingir a altura máxima."
 "Tip_3_4"		"Como um Soldier, aponte os foguetes para os pés dos inimigos para garantir que eles não consigam evitar o dano da explosão."
@@ -316,7 +319,7 @@
 "Tip_8_Count"	"15"
 // Generic
 "Tip_8_1"		"Como um Spy, você pode se disfarçar de inimigo com seu Kit de Disfarce. Mas cuidado, pois você ainda pode esbarrar em inimigos, e atacá-los removerá seu disfarce."
-"Tip_8_2"		"Como um Spy, chame os Medics inimigos pressionando %voicemenu 0 0% enquanto estiver disfarçado."
+"Tip_8_2"		"Como um Spy, chame os Medics inimigos pressionando %helpme% enquanto estiver disfarçado."
 "Tip_8_3"		"Como um Spy, tente se passar por um inimigo enquanto estiver disfarçado. Observe onde estão os membros da equipe inimiga e disfarce-se como um deles."
 "Tip_8_4"		"Como um Spy, ao pressionar %reload% enquanto disfarçado, você fará parecer que está recarregando para os membros da equipe inimiga."
 "Tip_8_5"		"Como um Spy, pressione %speed% para se mover na sua velocidade normal de corrida enquanto estiver disfarçado como classes mais lentas."
@@ -726,6 +729,7 @@
 "Attrib_DamageDelaysRegeneration"					"Receber dano atrasa a regeneração de vida em %s1s"
 "Attrib_DestroyGrenadesDetonateOwn"					"Explosões destroem granadas inimigas e detonam as suas próprias"
 "Attrib_HoldFirePreventDetonation"					"Ao Manter Pressionado: Impedi a detonação da granada"
+"Attrib_MiniCritAirborneEnemies"					"100% de mini-críticos contra inimigos no ar"
 "Attrib_CritAirborneEnemies"						"100% de críticos contra inimigos no ar"
 "Attrib_ModCritAirborneDirectHitOnly"				"Acertos críticos apenas em inimigos aéreos com acerto direto."
 "Attrib_ObjectivesGiveCrits"						"100% de críticos contra inimigos capturando, defendendo ou carregando objetivos"
@@ -1265,6 +1269,8 @@ A posse dos Pontos de Controle por cada equipe é aleatorizada no início de cad
 "GameUI_Restart"						"É necessário reiniciar."
 "GameUI_RestartText"					"Algumas alterações que você fez exigem que o jogo seja reiniciado:"
 "GameUI_OptionsRestart_Revert"			"Reverter alterações"
+
+"GameUI_Disconnect_TooManyCommands"		"Desconexão: Comandos em excesso."
 
 // Combat
 "TF2C_Option_DamageFeedback"				"Ativar feedback de dano"
