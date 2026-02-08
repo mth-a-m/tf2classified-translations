@@ -935,7 +935,7 @@ A equipe BLU pode congelar o progresso da captura de um Ponto de Controle se o V
 
 // VIP (Lives)
 "vipl_setup_goal_offense"	"Escolte o VIP para a zona de fuga e impeça-o de ser eliminado."
-"vipl_setup_goal_defense"	"Elimine o VIP da equipe inimiga ou impeça-o de atingir a zona de fuga para vencer."
+"vipl_setup_goal_defense"	"Elimine o VIP da equipe inimiga ou impeça-o de alcançar a zona de fuga para vencer."
 
 // VIP (Flags)
 "vip_bring_flag_here"	"Traga o aparelho aqui!"
