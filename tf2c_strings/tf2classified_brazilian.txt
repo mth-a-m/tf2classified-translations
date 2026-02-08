@@ -745,9 +745,9 @@
 "Attrib_Backstab"									"Ataque um inimigo pelas costas para apunhalá-lo com um golpe só"
 "Attrib_UpgradeRepairBuildings"						"Aprimora, repara e acelera a construção de construções aliadas ao acertar"
 "Attrib_AltFire_DetonateStickybombs"				"Disparo alternativo: detona todas as Stickybombs"
-"Attrib_AltFire_Airblast"							"Disparo alternativo: solta uma rajada de ar que empurra inimigos e projéteis, além de extinguir aliados em chamas"
+"Attrib_AltFire_Airblast"							"Disparo alternativo: solta uma rajada de ar\nRajada de ar empurra inimigos e projéteis, além de extinguir aliados em chamas"
 "Attrib_AltFire_Cloak"								"Disparo alternativo: camuflar-se"
-"Attrib_SapBuildings"								"Desativa e destrói lentamente as construções inimigas. Não remove o disfarce ao ser usado"
+"Attrib_SapBuildings"								"Desativa e destrói lentamente as construções inimigas\nNão remove o disfarce ao ser usado"
 "Attrib_ReloadNotActive"							"Esta arma recarregará quando não estiver em uso"
 "Attrib_Sandvich"									"Coma para recuperar até 120 de vida\nDisparo alternativo: compartilha um Sandviche com um aliado (cura 50% de vida)"
 "Attrib_AltFire_MinicritBoost"						"Disparo alternativo: fornece um bônus de mini-críticos a um aliado"
@@ -927,7 +927,7 @@ A equipe BLU pode congelar o progresso da captura de um Ponto de Controle se o V
 "vip_setup_goal_defense"	"Elimine o VIP da equipe inimiga para impedí-lo de alcançar a zona de fuga."
 
 "TF_VIP_Assigned"				"%s1 tornou-se o VIP!"
-"TF_VIP_Tutorial_Annotation_2"	"Ele oferece um aumento defensivo para aqueles ao seu redor e também pode fortalecer temporariamente um membro de sua equipe com Mini-Críticos!"
+"TF_VIP_Tutorial_Annotation_2"	"Ele oferece um aumento defensivo para aqueles ao seu redor e\ntambém pode fortalecer temporariamente um membro de sua equipe com Mini-Críticos!"
 "TF_VIP_Tutorial_Annotation_3"	"Mas lembre-se, a vida dele é mais importante que a sua, então não deixe ele morrer!"
 
 "Cant_cap_civilian_only"		"Apenas o VIP pode\n capturar este ponto."
