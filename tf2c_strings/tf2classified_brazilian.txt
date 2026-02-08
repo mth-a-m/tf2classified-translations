@@ -208,7 +208,7 @@
 // Soldier
 "Tip_3_Count"	"12"
 // Generic
-"Tip_3_1"		"Pressione %helpme% para chamar um médico caso se machuque. Os médicos próximos serão notificados da sua necessidade."
+"Tip_3_1"		"Pressione %helpme% para chamar um Medic caso se machuque. Os Medics próximos serão notificados da sua necessidade."
 "Tip_3_2"		"Como um Soldier, você pode realizar um salto com foguete para alcançar grandes alturas disparando um foguete contra seus pés enquanto salta."
 "Tip_3_3"		"Como um Soldier, ao se preparar para um salto com foguete, agache-se para atingir a altura máxima."
 "Tip_3_4"		"Como um Soldier, aponte os foguetes para os pés dos inimigos para garantir que eles não consigam evitar o dano da explosão."
@@ -272,10 +272,10 @@
 // Heavy
 "Tip_6_Count"	"17"
 // Generic
-"Tip_6_1"		"Pressione %voicemenu 0 0% para chamar um médico caso se machuque. Os médicos próximos serão notificados da sua necessidade."
+"Tip_6_1"		"Pressione %voicemenu 0 0% para chamar um Medic caso se machuque. Os Medics próximos serão notificados da sua necessidade."
 "Tip_6_2"		"Como um Heavy, você tem mais vida máxima do que qualquer outra classe. Não tenha medo de liderar grandes investidas ofensivas!"
 "Tip_6_3"		"Como um Heavy, você é muito mais lento que as outras aulas. Tenha cuidado ao escolher lutar contra os inimigos mais ágeis."
-"Tip_6_4"		"Como um Heavy, você é um ótimo parceiro do Médico. Mantenha uma linha de visão clara para o seu Médico para que você possa ser curado."
+"Tip_6_4"		"Como um Heavy, você é um ótimo parceiro do Medic. Mantenha uma linha de visão clara para o seu Medic para que você possa ser curado."
 "Tip_6_5"		"Como um Heavy, você é um alvo prioritário para espiões. Use seu arsenal para mantê-los à distância e olhe para trás com frequência."
 "Tip_6_6"		"Como um Heavy, segure %attack2% para ativar sua Metralhadora Giratória ou Canhão Antiaéreo. Prepare-se para os inimigos que se aproximam!"
 // Stock
@@ -376,10 +376,10 @@
 // Stock
 "Tip_10_7"		"Como um Civilian, seu Guarda-Chuva não é muito eficaz como arma e só deve ser usado em último caso. Deixe seus companheiros de equipe lutarem por você."
 "Tip_10_8"		"Como um Civilian, seu Guarda-Chuva concede mini-críticos a um companheiro de equipe à sua escolha. Banque classes capazes de causar grandes quantidades de dano."
-"Tip_10_9"		"Como um Civilian, o aumento de mini-crítico do seu Guarda-Chuva também dará aos médicos uma taxa de cura maior e ganho de ÜberCarga."
+"Tip_10_9"		"Como um Civilian, o aumento de mini-crítico do seu Guarda-Chuva também dará aos Medics uma taxa de cura maior e ganho de ÜberCarga."
 // Double Down
 "Tip_10_10"		"Como um Civilian, sua Bengala de Cabo Curvo pode ser usada para dar um aumento de velocidade a um companheiro de equipe. Isso permite que ele se mova e atire muito mais rápido."
-"Tip_10_11"		"Como um Civilian, sua Bengala de Cabo Curvo aumenta a taxa de cura dos Médicos e a taxa de construção dos Engenheiros."
+"Tip_10_11"		"Como um Civilian, sua Bengala de Cabo Curvo aumenta a taxa de cura dos Medics e a taxa de construção dos Engenheiros."
 
 // Arena
 "Tip_arena_Count"		"9"
