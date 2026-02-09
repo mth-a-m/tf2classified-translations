@@ -239,7 +239,7 @@
 // Death & Taxes
 "Tip_4_9"		"Como um Demoman, lance seu Pacote de Dinamites em Pontos de Controle movimentados para eliminar quaisquer inimigos."
 "Tip_4_10"		"Como um Demoman, seu Pacote de Dinamite pode ser desativado por engenheiros inimigos. Tenha cuidado ao arremessá-lo em postos de sentinelas."
-"Tip_4_11"		"Como um Demoman, as canhoneiras reduzem significativamente as perdas de energia causadas por saltos explosivos. Use-as quando o posicionamento e a mobilidade forem especialmente importantes."
+"Tip_4_11"		"Como um Demoman, as Canhoneiras reduzem bastante a perda de vida causada por saltos explosivos. Use-as quando o posicionamento e a mobilidade forem especialmente importantes."
 "Tip_4_12"		"Como um Demoman, o Campo Minado dispara minas de proximidade que detonam automaticamente se um inimigo se aproximar demais. Use-o para uma defesa automatizada!"
 // Double Down
 "Tip_4_13"		"Como um Demoman, as granadas PEM disparadas pelo Ciclope só detonam quando você permite. Use isso para calcular o tempo de um salto explosivo ou ativar uma armadilha mortal!"
@@ -251,7 +251,7 @@
 // Generic
 "Tip_5_1"		"Como um Medic, os companheiros de equipe que não sofreram dano recentemente serão curados muito mais rápido!"
 "Tip_5_2"		"Como um Medic, você ganha ÜberCarga mais rapidamente ao curar companheiros de equipe que estão mais feridos."
-"Tip_5_3"		"Como um Medic, você ganha ÜberCarga muito mais rápido durante o tempo de configuração."
+"Tip_5_3"		"Como um Medic, você ganha ÜberCarga muito mais rápido durante o tempo de preparação."
 "Tip_5_4"		"Como um Medic, preencha sua barra de ÜberCarga curando seus companheiros de equipe e, em seguida, pressione %attack2% para ativar uma ÜberCarga."
 "Tip_5_5"		"Como um Medic, fique atento aos seus companheiros de equipe que pedirem sua ajuda. Use os balões de fala em forma de cruz na tela para encontrá-los."
 "Tip_5_6"		"Como um Medic, você e seus pacientes não podem capturar Pontos de Controle nem pegar a maleta de Inteligência enquanto estiverem invulneráveis."
