@@ -1360,7 +1360,7 @@ A posse dos Pontos de Controle por cada equipe é aleatorizada no início de cad
 "TF_ClassAutoKill_Tip"				"Se ativado, força reviver imediatamente sempre que você trocar de classe enquanto estiver em campo.\n\nSe desativado, troca de classe ao reviver."
 "TF_ClassMenu_Music"				"Música do menu de seleção de classe"
 "TF_StreamerMode"					"Habilitar modo streamer"
-"TF_StreamerMode_Tip"				"Desativa o chat por texto e anonimizar os nomes de todos os jogadores na partida"
+"TF_StreamerMode_Tip"				"Se ativado, oculta todo o chat de texto e anonimiza todos os jogadores, incluindo você."
 "TF_ModelMuzzleFlash"				"Ativar clarão de disparo em modelo (beta)"
 "TF_ModelMuzzleFlash_Tip"			"Se ativado, substitui os efeitos de partículas por modelos mais estilizados no clarão de disparo."
 
