@@ -208,7 +208,7 @@
 // Soldier
 "Tip_3_Count"	"12"
 // Generic
-"Tip_3_1"		"身為火箭兵，如果你受傷了，請按下 %voicemenu 0 0% 可以呼叫醫護兵，附近的醫護兵會收到你的請求。"
+"Tip_3_1"		"身為火箭兵，如果你受傷了，請按下 %helpme% 可以呼叫醫護兵，附近的醫護兵會收到你的請求。"
 "Tip_3_2"		"身為火箭兵，你可以在跳躍的同時朝附近的地面或牆面射擊火箭，火箭跳躍可跳起相當的高度；在跳躍時蹲下可以增強你火箭跳躍時帶來的衝力。"
 "Tip_3_3"		"身為火箭兵，火箭跳時下蹲可以跳得更高。"
 "Tip_3_4"		"身為火箭兵，將火箭瞄準敵人的腳，確保他們無法避開爆炸傷害。"
@@ -1056,7 +1056,7 @@
 
 "TF_ScoreBoard_UberchargesLabel"	"Uber 能量部署："
 "TF_ScoreBoard_TransportsLabel"		"傳送數："
-"TF_ScoreBoard_DestructionLabel"	"破壞："
+"TF_ScoreBoard_DestructionsLabel"	"破壞："
 "TF_ScoreBoard_HeadshotsLabel"		"爆頭："
 "TF_ScoreBoard_BackstabsLabel"		"背刺："
 

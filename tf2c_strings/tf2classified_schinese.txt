@@ -208,7 +208,7 @@
 // Soldier
 "Tip_3_Count"	"12"
 // Generic
-"Tip_3_1"		"作为士兵，如果你受伤了，按 %voicemenu 0 0% 呼叫医生，附近的医生会收到你的请求。"
+"Tip_3_1"		"作为士兵，如果你受伤了，按 %helpme% 呼叫医生，附近的医生会收到你的请求。"
 "Tip_3_2"		"作为士兵，你可以在跳起的同时向脚下发射一枚火箭弹来进行火箭跳，使自己到达很高的地方。"
 "Tip_3_3"		"作为士兵，火箭跳时下蹲可以跳得更高。"
 "Tip_3_4"		"作为士兵，瞄准敌人的脚发射火箭以确保他们无法避开爆炸伤害。"
@@ -1037,8 +1037,8 @@
 "TF_ScoreBoard_Player"				"%s1 位玩家"
 "TF_ScoreBoard_Players"				"%s1 位玩家"
 
-"ScoreBoard_Spectator"				""%s1 位观察者：%s2"
-"ScoreBoard_Spectators"				""%s1 位观察者：%s2"
+"ScoreBoard_Spectator"				"%s1 位观察者：%s2"
+"ScoreBoard_Spectators"				"%s1 位观察者：%s2"
 
 "TF_ScoreBoard_KillsLabel"			"击杀："
 "TF_ScoreBoard_AssistsLabel"		"辅助："
