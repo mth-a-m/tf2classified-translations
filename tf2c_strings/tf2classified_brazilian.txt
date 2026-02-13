@@ -153,7 +153,7 @@
 "DeathMsg_Suicide_Stomp"		"bateu as botas!"
 "DeathMsg_Suicide_Disintegrate"	"virou churrasquinho!"
 "DeathMsg_Suicide_Decapitate"	"perdeu a cabeça!"
-"DeathMsg_Suicide_Gold"			"transformou-se em ouro"
+"DeathMsg_Suicide_Gold"			"transformou-se em ouro!"
 "DeathMsg_Suicide_Freeze"		"congelou-se!"
 "DeathMsg_Suicide_Fizzle"		"foi eletrocutado!"
 "DeathMsg_Suicide_Disappear"	"desapareceu!"
