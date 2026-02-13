@@ -1003,6 +1003,9 @@ Team ownership of Control Points is randomized at the start of each round."
 "generic_cap_D"			"Control Point D"
 "generic_cap_E"			"Control Point E"
 
+// Arena
+"TF_Arena_Welcome"		"Arena Mode"
+
 // ----------------------------------------------------------------
 // Intro movies
 // ----------------------------------------------------------------
