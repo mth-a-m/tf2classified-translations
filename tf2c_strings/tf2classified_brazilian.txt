@@ -51,23 +51,31 @@
 // Teams
 // ----------------------------------------------------------------
 
-"TF_GreenTeam" 					"&5 GRN"
-"TF_YellowTeam" 				"&6 YLW"
+"TF_GreenTeam" 						"&5 GRN"
+"TF_YellowTeam" 					"&6 YLW"
 
-"TF_GreenTeam_Name"				"GRN"
-"TF_YellowTeam_Name"			"YLW"
+"TF_GreenTeam_Name"					"GRN"
+"TF_YellowTeam_Name"				"YLW"
 
-"TF_Other_Name"					"INIMIGOS"
+"TF_Other_Name"						"INIMIGOS"
 
 // Disguise Kit global disguise
-"Hud_Menu_Disguise_GlobalTeam"	"Disfarce Global: Todos os inimigos irão te ver como parte da sua própria equipe."
+"Hud_Menu_Disguise_GlobalTeam"		"Disfarce Global: Todos os inimigos irão te ver como parte da sua própria equipe."
 
 // Autobalance
-"TF_teamswitch_green"			"Você agora está na equipe GRN!"
-"TF_teamswitch_yellow"			"Você agora está na equipe YLW!"
+"TF_teamswitch_green"				"Você agora está na equipe GRN!"
+"TF_teamswitch_yellow"				"Você agora está na equipe YLW!"
 
-"TF_Team_Balanced"				"%s1 foi movido para a equipe %s2"
-"TF_Autobalance_TeamChangeDone"	"Você foi movido para a equipe %s1"
+// Chat Printouts
+"TF_Team_Balanced"					"%s1 foi movido para a equipe %s2"
+"TF_Autobalance_TeamChangeDone"		"Você foi movido para a equipe %s1"
+"TF_Name_Change"					"* %s1 mudou o nome para %s2"
+"TF_Joined_Game"					"%s1 entrou na partida"
+"TF_Left_Game"						"%s1 saiu da partida (%s2)"
+"TF_Joined_Team"					"%s1 entrou para a equipe %s2"
+"TF_Joined_AutoTeam" 				"%s1 foi automaticamente designado para a equipe %s2"
+"TF_AutoBalanced"					"%s1 foi movido para a equipe %s2 para balancear a partida"
+"TF_AutoBalance_Warning"			"Desequilíbrio de equipes detectado"
 
 // ----------------------------------------------------------------
 // Classes
@@ -344,7 +352,7 @@
 // Engineer
 "Tip_9_Count"	"20"
 // Generic
-"Tip_9_1"		"Como um Engineer, você precisa de metal para construir, reparar e melhorar seus edifícios. Colete pacotes de munição e armas caídas para obter mais metal."
+"Tip_9_1"		"Como um Engineer, você precisa de metal para construir, reparar e melhorar suas construções. Recolha armas de jogadores mortos como uma forma adicional de obter mais metal."
 "Tip_9_2"		"Como um Engineer, você pode fazer mais do que apenas manter suas contruções. Use sua Escopeta e sua Pistola para auxiliar em combates e defender suas construções."
 "Tip_9_3"		"Como um Engineer, fique de olho nos Spies inimigos que estão instalando Sabotadores em suas construções. Use sua Chave Inglesa para remover os Sabotadores."
 "Tip_9_4"		"Como um Engineer, lembre-se de aprimorar suas construções. Construções aprimoradas podem trazer grandes benefícios para você e sua equipe!"
@@ -866,6 +874,9 @@ Apenas combate honrado, espada contra espada!"
 // vipr_chopper
 "Chopper_cap_A"				"o Radar RED"
 "Chopper_cap_B"				"o Radar BLU"
+
+// 4plr_sisyphus
+"Sisyphus_cap_peak"			"o Pico"
 
 // ----------------------------------------------------------------
 // Gamemodes
@@ -1416,12 +1427,19 @@ A posse dos Pontos de Controle por cada equipe é aleatorizada no início de cad
 "TF_ClassRecord_MostPadJumps"			"Máx. de saltos:"
 "TF_ClassRecord_Alt_MostPadJumps"		"salto(s)"
 
-"StatPanel_PadJumps_Best"				"Você usou mais saltadores nessa rodada do que em sua melhor marca anterior."
+"StatPanel_Ubercharges_Best"			"Você usou mais ÜberCargas nesta rodada do que no seu recorde anterior."
+"StatPanel_Ubercharges_Tie"				"Você igualou seu recorde de ÜberCargas nesta rodada."
+"StatPanel_Ubercharges_Close"			"Você chegou perto do seu recorde de ÜberCargas nesta rodada."
+"StatPanel_MVM_Ubercharges_Best"		"Você usou mais ÜberCargas nesta rodada de Mann vs. Machine do que no seu recorde anterior."
+"StatPanel_MVM_Ubercharges_Tie"			"Você igualou seu recorde de ÜberCargas nesta rodada de Mann vs. Machine."
+"StatPanel_MVM_Ubercharges_Close"		"Você chegou perto do seu recorde de ÜberCargas nesta rodada de Mann vs. Machine."
+
+"StatPanel_PadJumps_Best"				"Seus saltadores foram usados mais vezes nesta rodada do que no seu recorde anterior."
 "StatPanel_PadJumps_Tie"				"Você igualou seu recorde de saltos com saltadores nessa rodada."
-"StatPanel_PadJumps_Close"				"Você quase bateu seu recorde de saltos com saltadores."
-"StatPanel_MVM_PadJumps_Best"			"Nessa rodada do Mann vs. Machine, você usou mais saltadores do que em qualquer outra partida, mesmo tendo alcançado seu melhor desempenho anterior."
-"StatPanel_MVM_PadJumps_Tie"			"Você igualou seu recorde de saltos sobre saltadores naquela rodada do Mann vs. Machine."
-"StatPanel_MVM_PadJumps_Close"			"Você quase bateu seu recorde de saltos sobre saltadores naquela rodada do Mann vs. Machine."
+"StatPanel_PadJumps_Close"				"Você chegou perto do seu recorde de saltos nos saltadores nesta rodada."
+"StatPanel_MVM_PadJumps_Best"			"Seus saltadores foram usados mais vezes nesta rodada de Mann vs. Machine do que no seu recorde anterior."
+"StatPanel_MVM_PadJumps_Tie"			"Você igualou seu recorde de saltos nos saltadores nesta rodada de Mann vs. Machine."
+"StatPanel_MVM_PadJumps_Close"			"Você chegou perto do seu recorde de saltos nos saltadores nesta rodada de Mann vs. Machine."
 // ----------------------------------------------------------------
 // Achievements
 // ----------------------------------------------------------------
