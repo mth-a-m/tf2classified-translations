@@ -1296,7 +1296,7 @@ Team ownership of Control Points is randomized at the start of each round."
 "GameUI_RestartText"					"Some changes you have made require the game to be restarted:"
 "GameUI_OptionsRestart_Revert"			"Revert changes"
 
-"GameUI_Disconnect_TooManyCommands"		"Disconnect: Too many commands.
+"GameUI_Disconnect_TooManyCommands"		"Disconnect: Too many commands."
 
 // Combat
 "TF2C_Option_DamageFeedback"				"Enable damage feedback"
