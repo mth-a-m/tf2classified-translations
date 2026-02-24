@@ -742,7 +742,7 @@
 "Attrib_HealthFromPacks_Active_Decreased"			"%s1% de vida dos pacotes enquanto ativo"
 "Attrib_DamageDelaysRegeneration"					"Receber dano atrasa a regeneração de vida em %s1s"
 "Attrib_DestroyGrenadesDetonateOwn"					"Explosões destroem granadas inimigas e detonam as suas próprias"
-"Attrib_HoldFirePreventDetonation"					"Ao Manter Pressionado: Impedi a detonação da granada"
+"Attrib_HoldFirePreventDetonation"					"Ao Manter Pressionado: Impede a detonação da granada"
 "Attrib_MiniCritAirborneEnemies"					"100% de mini-críticos contra inimigos no ar"
 "Attrib_CritAirborneEnemies"						"100% de críticos contra inimigos no ar"
 "Attrib_ModCritAirborneDirectHitOnly"				"Acertos críticos apenas em inimigos aéreos com acerto direto."
