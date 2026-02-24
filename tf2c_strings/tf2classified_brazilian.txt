@@ -911,10 +911,10 @@ Apenas combate honrado, espada contra espada!"
 "Gametype_VIPRace_FourTeam"			"Corrida de VIPs (Quatro Equipes)"
 
 // Offline practice descriptions
-"TF_GameModeDesc_VIP"			"A equipe BLU escolta o Civilian até um ponto de controle. A equipe RED precisa detê-los."
-"TF_GameModeDesc_VIPRace"		"Escolte o Civilian de sua equipe até a linha de chegada antes da equipe inimiga."
+"TF_GameModeDesc_VIP"			"O BLU escolta o Civilian. O RED precisa detê-los."
+"TF_GameModeDesc_VIPRace"		"Escolte seu Civilian até a linha de chegada antes do inimigo."
 "TF_GameModeDesc_Domination"	"Capture pontos estratégicos e mantenha-os pelo maior tempo possível."
-"TF_GameModeDesc_Arena"			"Elimine todos os jogadores inimigos ou espere o ponto de controle ser desbloqueado."
+"TF_GameModeDesc_Arena"			"Elimine os inimigos ou aguarde o ponto de controle ser desbloqueado."
 
 "TF_GameModeBrief_VIPRace"		"Corrida de VIPs - Ambas as equipes possuem VIPs"
 
