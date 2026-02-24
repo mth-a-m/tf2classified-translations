@@ -641,13 +641,13 @@
 // Building Status
 "Building_hud_hauling"				"Carregando..."
 "Building_hud_upgrading"			"Aprimorando..."
-"Building_hud_jumppad_a_not_built"	"Saltador A\nNão construído"
-"Building_hud_jumppad_b_not_built"	"Saltador B\nNão construído"
+"Building_hud_jumppad_a_not_built"	"Saltador - A\nNão construído"
+"Building_hud_jumppad_b_not_built"	"Saltador - B\nNão construído"
 
 // Jump Pad
 "TF_Object_Jump"					"Saltador"
-"TF_Object_Jump_A"					"Saltador A"
-"TF_Object_Jump_B"					"Saltador B"
+"TF_Object_Jump_A"					"Saltador - A"
+"TF_Object_Jump_B"					"Saltador - B"
 "TF_JumpPad_Mode_A"					"A"
 "TF_JumpPad_Mode_B"					"B"
 
