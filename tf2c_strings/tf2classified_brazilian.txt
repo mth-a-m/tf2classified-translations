@@ -111,7 +111,7 @@
 "TF_playerid_wpn"						"%s1"
 
 // Boosts
-"TF_playerid_healer"					"Cura por: "
+"TF_playerid_healer"					"Sendo Curado por: "
 "TF_playerid_healtarget"				"Curando: "
 "TF_playerid_mediccharge"				"ÜberCarga: %s1"
 "TF_playerid_mediccharge_wpn"			"ÜberCarga: %s1 (%s2%)"
@@ -119,10 +119,10 @@
 "TF_playerid_civiliancharge_wpn"		"Bancando: %s1 (%s2%)"
 
 // Buildings
-"TF_playerid_object"					"%s1 de %s2"
-"TF_playerid_object_diffteam"			"%s1 inimiga de %s2"
-"TF_playerid_object_mini"				"Mini-%s1 de %s2"
-"TF_playerid_object_mode"				"%s3 do %s1 de %s2"
+"TF_playerid_object"					"%s1: construção de %s2"
+"TF_playerid_object_diffteam"			"%s1 do inimigo: construção de %s2"
+"TF_playerid_object_mini"				"Mini-%s1: construção de %s2"
+"TF_playerid_object_mode"				"%s1 %s3: construção de %s2"
 "TF_playerid_object_level"				"( Nível %s1 )"
 "TF_playerid_object_upgrade"			"Aprimoramento: %s1"
 "TF_playerid_object_upgrade_level"		"( Nível %s1 ) Aprimoramento: %s2"
@@ -280,8 +280,8 @@
 "Tip_5_13"		"Como um Medic, a Terapia de Choque causará mais dano quanto mais carregada estiver. A carga será consumida ao atingir inimigos."
 "Tip_5_14"		"Como um Medic, A Terapia de Choque pode ser usada para curar completamente um companheiro de equipe com carga máxima, em troca de uma redução na taxa de cura geral."
 // Double Down
-"Tip_5_15"		"Como um Medic, o Rejuvenescedor é extremamente útil para curar grandes grupos de companheiros de equipe. Mire em acertos diretos para aumentar a cura e o bônus de ÜberCarga."
-"Tip_5_16"		"Como um Medic, a ÜberCarga do Rejuvenescedor cria um escudo temporário de invulnerabilidade, tornando qualquer companheiro de equipe que entrar nele imune a todos os danos."
+"Tip_5_15"		"Como um Medic, a Rejuvenescedora é extremamente útil para curar grandes grupos de companheiros de equipe. Mire em acertos diretos para aumentar a cura e o bônus de ÜberCarga."
+"Tip_5_16"		"Como um Medic, a ÜberCarga da Rejuvenescedora cria um escudo temporário de invulnerabilidade, tornando qualquer companheiro de equipe que entrar nele imune a todos os danos."
 
 // Heavy
 "Tip_6_Count"	"17"
@@ -586,7 +586,7 @@
 // ----------------------------------------------------------------
 
 // Rejuvenator
-"TF_Weapon_Rejuvenator"			"Rejuvenescedor"
+"TF_Weapon_Rejuvenator"			"Rejuvenescedora"
 "TF_Weapon_Rejuvenator_Desc"	"Tente evitar o contato com a boca e os olhos."
 // Admiralty Anchor
 "TF_Weapon_AdmiraltyAnchor"			"Âncora do Almirantado"
@@ -1120,7 +1120,7 @@ A posse dos Pontos de Controle por cada equipe é aleatorizada no início de cad
 // Main Menu
 // ----------------------------------------------------------------
 
-"TF_Menu_Welcome"			"Bem-vindo(a) novamente,"
+"TF_Menu_Welcome"			"Bem-vindo(a) de novo,"
 "TF_Menu_Name"				"%playername%!"
 
 "TF_Menu_HideName"			"[CENSURADO]"
@@ -1129,9 +1129,9 @@ A posse dos Pontos de Controle por cada equipe é aleatorizada no início de cad
 "TF_Menu_Mute"				"Silenciar jogadores"
 "TF_Menu_Vote"				"Iniciar votação"
 
-"TF_Menu_FindServers"		"Jogar TF2 Classified"
+"TF_Menu_FindServers"		"Procurar Servidores"
 "TF_Menu_CreateServer"		"Criar um servidor"
-"TF_Menu_OfflineTraining"	"Partida offline"
+"TF_Menu_OfflineTraining"	"Treinamento"
 
 "TF_Menu_Loadout"			"Equipamentos"
 
@@ -1493,7 +1493,7 @@ A posse dos Pontos de Controle por cada equipe é aleatorizada no início de cad
 "TF2C_ACHIEVEMENT_JUMPPAD_STOMP_NAME"					"Velocidade Terminal"
 "TF2C_ACHIEVEMENT_JUMPPAD_STOMP_DESC"					"Elimine alguém aterrissando sobre essa pessoa após usar um Saltador."
 "TF2C_ACHIEVEMENT_EXTEND_UBER_NAME"						"Maratona Cirúrgica"
-"TF2C_ACHIEVEMENT_EXTEND_UBER_DESC"						"Estenda a ÜberCarga de um Rejuvenescedor para 12 segundos."
+"TF2C_ACHIEVEMENT_EXTEND_UBER_DESC"						"Estenda a ÜberCarga de uma Rejuvenescedora para 12 segundos."
 "TF2C_ACHIEVEMENT_CHEKHOV_SHOCK_NAME"					"Tá em Choque?!"
 "TF2C_ACHIEVEMENT_CHEKHOV_SHOCK_DESC"					"Dê um ataque cardíaco em um Heavy inimigo que tenha o Punho de Tchekhov equipado!"
 "TF2C_ACHIEVEMENT_HEADSHOT_KILL_MIDFLIGHT_NAME"			"Aeromorto"
