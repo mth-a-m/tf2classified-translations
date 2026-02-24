@@ -122,7 +122,7 @@
 "TF_playerid_object"					"%s1: construção de %s2"
 "TF_playerid_object_diffteam"			"%s1 do inimigo: construção de %s2"
 "TF_playerid_object_mini"				"Mini-%s1: construção de %s2"
-"TF_playerid_object_mode"				"%s1 %s3: construção de %s2"
+"TF_playerid_object_mode"				"%s1 - %s3: construção de %s2"
 "TF_playerid_object_level"				"( Nível %s1 )"
 "TF_playerid_object_upgrade"			"Aprimoramento: %s1"
 "TF_playerid_object_upgrade_level"		"( Nível %s1 ) Aprimoramento: %s2"
@@ -1129,9 +1129,9 @@ A posse dos Pontos de Controle por cada equipe é aleatorizada no início de cad
 "TF_Menu_Mute"				"Silenciar jogadores"
 "TF_Menu_Vote"				"Iniciar votação"
 
-"TF_Menu_FindServers"		"Buscar Servidores"
+"TF_Menu_FindServers"		"Buscar servidores"
 "TF_Menu_CreateServer"		"Criar um servidor"
-"TF_Menu_OfflineTraining"	"Treinamento"
+"TF_Menu_OfflineTraining"	"Treinamento com bots"
 
 "TF_Menu_Loadout"			"Equipamentos"
 
