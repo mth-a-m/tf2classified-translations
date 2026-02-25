@@ -576,7 +576,7 @@
 "TF_Weapon_PDAJumpPad_Desc"	"Acredite em mim, meu amigo. Essa vai te surpreender."
 // Harvester
 "TF_Weapon_Harvester"		"Ceifadora"
-"TF_Weapon_Harvester_Desc"	"Não pergunte por quem o sino dobra."
+"TF_Weapon_Harvester_Desc"	"Não me perguntes por quem os sinos dobram."
 // Brick
 "TF_Weapon_Brick"		"Tijolo"
 "TF_Weapon_Brick_Desc"	"Não pensei que você fosse TÃO lento."
@@ -769,7 +769,7 @@
 "Attrib_DisabledByWrench"							"Pode ser desarmado por Chaves Inglesas"
 "Attrib_Coilgun"									"Disparos totalmente carregados ricocheteiam nas paredes e a arma pode explodir na sua mão se for sobrecarregada"
 "Attrib_DamageAffectedByCharge"						"Danos são afetados pela carga atual"
-"Attrib_JumpPadNoUpgrade"							"Saltadores não podem ser melhorados"
+"Attrib_JumpPadNoUpgrade"							"Saltadores não podem ser aprimorados"
 "Attrib_AltFire_HasteBoost"							"Ataque Alternativo: Concede aumento de velocidade a um aliado"
 "Attrib_AltFire_UberBubble"							"Disparo Alternativo: Lança um dispositivo que fornece invulnerabilidade em área"
 
