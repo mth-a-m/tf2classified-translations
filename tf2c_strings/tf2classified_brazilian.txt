@@ -348,8 +348,8 @@
 "Tip_8_12"		"Como um Spy, sua Arma Tranquilizadora reduz a velocidade de movimento e a taxa de disparo do alvo. Isso ajuda a criar uma abertura para uma fuga."
 "Tip_8_13"		"Como um Spy, os dardos da sua Arma Tranquilizadora fazem o alvo receber dano crítico garantido em ataques corpo a corpo. Coordene com sua equipe ou elimine sozinho o alvo."
 // Fight or Flight
-"Tip_8_14"		"Como um Spy, L'escampette permite que você se mova rapidamente para dentro ou para fora da base inimiga. Faça fugas rápidas ou infiltrações rápidas!"
-"Tip_8_15"		"Como um Spy, você perde a camuflagem ao sofrer dano com L'escampette equipada. Mantenha-se fora da linha de fogo."
+"Tip_8_14"		"Como um Spy, o L'escampette permite que você se mova rapidamente para dentro ou para fora da base inimiga. Faça fugas ou infiltrações rápidas!"
+"Tip_8_15"		"Como um Spy, você perde a camuflagem ao sofrer dano com o L'escampette equipado. Mantenha-se fora da linha de fogo."
 
 // Engineer
 "Tip_9_Count"	"20"
