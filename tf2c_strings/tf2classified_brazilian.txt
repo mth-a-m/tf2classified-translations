@@ -1427,7 +1427,7 @@ A posse dos Pontos de Controle por cada equipe é aleatorizada no início de cad
 "TF_ClassRecord_MostUbercharges"		"Máx. ÜberCargas:"
 "TF_ClassRecord_Alt_MostUbercharges"	"ÜberCarga(s)"
 "TF_ClassRecord_MostPadJumps"			"Máx. de saltos:"
-"TF_ClassRecord_Alt_MostPadJumps"		"Salto(s)"
+"TF_ClassRecord_Alt_MostPadJumps"		"salto(s)"
 
 "StatPanel_Ubercharges_Best"			"Você usou mais ÜberCargas nesta rodada do que no seu recorde anterior."
 "StatPanel_Ubercharges_Tie"				"Você igualou seu recorde de ÜberCargas nesta rodada."
