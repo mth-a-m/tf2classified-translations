@@ -206,10 +206,10 @@
 "Tip_2_Count"	"11"
 // Generic
 "Tip_2_1"		"Como um Sniper, mire na cabeça para causar muito dano."
-"Tip_2_2"		"Como um Sniper, pressione %attack2% para usar a luneta do rifle de precisão ou mirar com o revólver de caça."
+"Tip_2_2"		"Como um Sniper, pressione %attack2% para usar a luneta do Rifle de Precisão ou mirar com o Revólver de Caça."
 // Stock
 "Tip_2_3"		"Como um Sniper, quanto mais tempo olhar pela luneta, maior será o dano causado pelo disparo."
-"Tip_2_4"		"Como um Sniper, um tiro na cabeça (headshot) completamente carregado de um rifle de precisão pode matar a maioria das classes instantaneamente."
+"Tip_2_4"		"Como um Sniper, um tiro na cabeça (headshot) completamente carregado de um Rifle de Precisão pode matar a maioria das classes instantaneamente."
 "Tip_2_5"		"Como um Sniper, use a Submetralhadora para lidar com inimigos próximos."
 "Tip_2_6"		"Como um Sniper, a sua Kukri pode ser útil para lidar com emboscadas surpresas."
 // Death & Taxes
@@ -246,7 +246,7 @@
 "Tip_4_3"		"Como um Demoman, ao se preparar para um salto explosivo, agache-se para atingir a altura máxima."
 // Stock
 "Tip_4_4"		"Como um Demoman, use seu Lança-Granadas para combate direto. Granadas lançadas pelo ar detonam imediatamente ao atingir um inimigo."
-"Tip_4_5"		"Como um Demoman, quanto mais tempo você mantiver pressionado o botão %attack% com o Lança-Stickybombs, mais longe a Bomba Adesiva será lançada."
+"Tip_4_5"		"Como um Demoman, quanto mais tempo você mantiver pressionado o botão %attack% com o Lança-Stickybombs, mais longe a Stickybomb será lançada."
 "Tip_4_6"		"Como um Demoman, dispare Stickybombs em paredes e tetos onde sejam difíceis de ver."
 "Tip_4_7"		"Como um Demoman, sua Garrafa pode ser usada para combate corpo a corpo após um salto explosivo em território inimigo."
 "Tip_4_8"		"Como um Demoman, sua Garrafa causará a mesma quantidade de dano, independentemente de ser quebrada ou não."
@@ -316,7 +316,7 @@
 "Tip_7_3"		"Como um Pyro, seu Lança-Chamas causa mais dano quanto mais perto você estiver do inimigo."
 "Tip_7_4"		"Como um Pyro, seu Lança-Chamas consome muita munição. Recolha pacotes de munição e armas caídas para reabastecer seu estoque."
 "Tip_7_5"		"Como um Pyro, embosque os inimigos para pegá-los no curto alcance do seu Lança-Chamas. Use cantos e desníveis a seu favor."
-"Tip_7_6"		"Como um Pyro, a rajada de compressão do Lança-chamas empurra inimigos (inclusive invulneráveis) para longe ou para perigos que tem no cenário. Use %attack2%."
+"Tip_7_6"		"Como um Pyro, a rajada de ar do Lança-chamas empurra inimigos (inclusive invulneráveis) para longe ou para perigos que tem no cenário. Use %attack2%."
 "Tip_7_7"		"Como um Pyro, seu Lança-Chamas pode extinguir aliados em chamas com %attack2%."
 "Tip_7_8"		"Como um Pyro, troque para sua Escopeta se os inimigos recuarem além do alcance do seu Lança-Chamas."
 "Tip_7_9"		"Como um Pyro, seu Machado de Incêndio é uma ótima opção para lidar com inimigos em retirada a curta distância."
@@ -1427,7 +1427,7 @@ A posse dos Pontos de Controle por cada equipe é aleatorizada no início de cad
 "TF_ClassRecord_MostUbercharges"		"Máx. ÜberCargas:"
 "TF_ClassRecord_Alt_MostUbercharges"	"ÜberCarga(s)"
 "TF_ClassRecord_MostPadJumps"			"Máx. de saltos:"
-"TF_ClassRecord_Alt_MostPadJumps"		"salto(s)"
+"TF_ClassRecord_Alt_MostPadJumps"		"Salto(s)"
 
 "StatPanel_Ubercharges_Best"			"Você usou mais ÜberCargas nesta rodada do que no seu recorde anterior."
 "StatPanel_Ubercharges_Tie"				"Você igualou seu recorde de ÜberCargas nesta rodada."
