@@ -176,10 +176,13 @@
 // Voice Menu
 // ----------------------------------------------------------------
 
-"Voice_Menu_ChargeReady"	            "MEDIC: ÜberCarga pronta"
-"Voice_Menu_ChargeReadySubtitle"		"ÜberCarga pronta! (100%)"
-"Voice_Menu_ChargeAlmostReadySubtitle"	"ÜberCarga quase pronta (%s1%)"
-"Voice_Menu_ChargeNotReadySubtitle"		"ÜberCarga ainda não está pronta (%s1%)"
+"Voice_Menu_ChargeReady"	            	"MEDIC: ÜberCarga pronta"
+"Voice_Menu_ChargeReadySubtitle"			"ÜberCarga pronta! (100%)"
+"Voice_Menu_ChargeAlmostReadySubtitle"		"ÜberCarga quase pronta (%s1%)"
+"Voice_Menu_ChargeNotReadySubtitle"			"ÜberCarga ainda não está pronta (%s1%)"
+
+"Voice_Menu_SingleChargeReadySubtitle"		"ÜberCarga pronta! (%s1 carga)"
+"Voice_Menu_MultipleChargesReadySubtitle"	"ÜberCarga pronta! (%s1 cargas)"
 
 // ----------------------------------------------------------------
 // Class tips
