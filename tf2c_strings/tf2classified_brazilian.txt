@@ -1412,7 +1412,8 @@ A posse dos Pontos de Controle por cada equipe é aleatorizada no início de cad
 "TF_Network_Rate_Tip"       		"Define a taxa de atualização da rede, que inversamente define a quantidade de interpolação.\n\nRecomenda-se testar cada uma e ver qual funciona melhor na sua conexão de rede."
 
 // Video
-"TF2c_Option_BloomScale"	"Escala do efeito \"bloom\""
+"TF2c_Option_BloomScale"			"Escala de bloom"
+"TF2c_Option_FramerateLimit"		"Limite de taxa de quadros"
 
 // ----------------------------------------------------------------
 // Stats
