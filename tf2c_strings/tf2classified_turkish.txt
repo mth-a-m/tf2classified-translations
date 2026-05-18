@@ -325,7 +325,7 @@
 "Tip_7_6"		"Pyro iken, Alev Silahı'nın basınçlı hava patlaması çok kullanışlı bir özelliktir. %attack2% tuşuna basarak düşmanları (ÜberŞarjlılar dahil) uzağa, veya çevresel bir ölüme püskürt!"
 "Tip_7_7"		"Pyro iken, Alev Silahı ile yanan takım arkadaşlarını %attack2% tuşuyla söndürebilirsin."
 "Tip_7_8"		"Pyro iken, eğer düşmanlar Alev Silahı'nın kısa menzilinin ötesine geri çekilirse Av Tüfeği'ni kullan."
-"Tip_7_9"		"Pyro iken, Yangın Baltası yakın mesafede geriye çekilen düsmanlar ile ilgilenmekte çok kullanışlıdır."
+"Tip_7_9"		"Pyro iken, Yangın Baltası yakın mesafede geriye çekilen düşmanlarla ilgilenmekte çok kullanışlıdır."
 // Death & Taxes
 "Tip_7_10"		"Pyro iken, İşaret Fişeği uzak mesafedeki düşmanları ateşe verebilir. Bu, Sniper'lar gibi çok uzakta olan düşmanlar için iyi işe yarar."
 "Tip_7_11"		"Pyro iken, İşaret Fişeği çıkardığın an yanan düşman Pyro'lara kritik hasar verebilecek çok düşük bir süreye sahiptir."
